@@ -1,20 +1,21 @@
 export const educations = [
   {
-    id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    "id": 1,
+    "title": "Bachelor of Computer Applications (BCA)",
+    "duration": "2016 - 2019",
+    "institution": "Arcade Business College, Patna, Bihar"
   },
   {
-    id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    "id": 2,
+    "title": "Intermediate (12th)",
+    "duration": "2014 - 2016",
+    "institution": "DBSD Inter College, Garkha, Saran, Bihar"
   },
   {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    "id": 3,
+    "title": "Matriculation (10th)",
+    "duration": "2014",
+    "institution": "JMHS Raipura, Sarab, Bihar"
   }
+
 ]
